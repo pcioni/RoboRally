@@ -1,0 +1,2 @@
+g++ main.cpp board.cpp -o robot && ./robot puzzle1.txt -visualize
+g++ -g main.cpp board.cpp -o robot

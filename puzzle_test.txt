@@ -1,0 +1,4 @@
+3 3
+robot A 1 1
+goal any 3 3
+
